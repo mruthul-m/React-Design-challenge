@@ -1,0 +1,7 @@
+.handle {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding: 3px;
+    top: 60px;
+}

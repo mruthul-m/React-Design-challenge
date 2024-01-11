@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    main {
+        flex: 60%;
+    }
+}
+
+.hover-content:hover {
+    background: #B4D4FF;
+}
