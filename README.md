@@ -1,8 +1,25 @@
-# React + Vite
+Hello 👋🏻,
+This is just a responsive single page created using React Library.
+Responsive to Mobile and Laptop breakpoints.
+Tailwind css is used for styling the pages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mobile view 1
+![mobile view 1](./src/assets/mobileview1.png)
 
-Currently, two official plugins are available:
+Mobile view 2
+![mobile view 2](./src/assets/mobileview2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Laptop view 1
+![mobile view 2](./src/assets/laptopview1.png)
+
+vite is used for development
+
+all files are inside the src folder.
+folders
+-components => all components are created inside this folder
+-DataFetching => Dummy data is created, and exported for further use
+-assets => no assets are used
+
+Styling is all done using Tailwind Css 😉. (This might seem so disguesting , but sometimes we need to use this for boost our production speed)
+
+No sperate folder is created for custom css files. Only three of them are there!
